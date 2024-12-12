@@ -70,6 +70,7 @@
             return null;
         }
 
+        
         // Функция для установки cookie
         function setCookie(name, value, days) {
             const date = new Date();
